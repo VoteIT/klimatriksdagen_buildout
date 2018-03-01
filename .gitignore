@@ -5,6 +5,13 @@
 *~
 .coverage
 coverage.xml
+bin/
+develop-eggs/
+eggs
+include/
+lib/
+local/
+src/
 build/
 dist/
 parts/
@@ -18,5 +25,6 @@ var/
 .*.sw?
 .sw?
 .DS_Store
-coverage
-test
+.installed.cfg
+.mr.developer.cfg
+
